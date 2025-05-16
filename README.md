@@ -15,7 +15,7 @@ This project includes a Jupyter Notebook and an R script to manage employee sala
 - `Total.csv`: Provided salary dataset
 - `Total_Salary_Data MSDA.ipynb`: Python notebook with data processing and export functions
 - `Total SalaryR.R`: R script to unzip and display employee data
-- `Employee Data`: Csv.zip file downloaded from python
+- `Employee Data (Jane Doe)`: Csv.zip file downloaded from python
 - `README.md`: This instruction file
 
 ---
