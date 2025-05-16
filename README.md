@@ -29,7 +29,7 @@ This project includes a Jupyter Notebook and an R script to manage employee sala
 4. Use `export_employee_to_zip(name)` to export employee details to CSV and zip it.
 
 ### R Script
-1. Ensure `Employee Profile.zip` created by the Python script is in your R working directory.
+1. Ensure `Employee Profile.zip` created by the Python script is in R working directory.
 2. Run `employee_profile_display.R` in R or RStudio.
 3. The script will unzip the file and display the first few rows of the employee's CSV data.
 
